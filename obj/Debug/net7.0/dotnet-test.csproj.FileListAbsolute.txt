@@ -1,0 +1,15 @@
+/Users/rubemcalixto/dotnet-test/bin/Debug/net7.0/dotnet-test
+/Users/rubemcalixto/dotnet-test/bin/Debug/net7.0/dotnet-test.deps.json
+/Users/rubemcalixto/dotnet-test/bin/Debug/net7.0/dotnet-test.runtimeconfig.json
+/Users/rubemcalixto/dotnet-test/bin/Debug/net7.0/dotnet-test.dll
+/Users/rubemcalixto/dotnet-test/bin/Debug/net7.0/dotnet-test.pdb
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.csproj.AssemblyReference.cache
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.AssemblyInfoInputs.cache
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.AssemblyInfo.cs
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.csproj.CoreCompileInputs.cache
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.dll
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/refint/dotnet-test.dll
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.pdb
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/dotnet-test.genruntimeconfig.cache
+/Users/rubemcalixto/dotnet-test/obj/Debug/net7.0/ref/dotnet-test.dll
